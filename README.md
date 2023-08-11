@@ -1,6 +1,6 @@
 # DateFormatterConstructor
 
-This is simple DateFormatter extension which allows you to create a date formatter with a specific date pattern in one line.
+This is simple DateFormatter extension which allows you to create a DateFormatter instance with a specific date pattern in one line.
 
 So instead of writing:
 ```swift

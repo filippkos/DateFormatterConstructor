@@ -1,4 +1,4 @@
-# MyDateFormatterConstructor
+# DateFormatterConstructor
 
 This is simple DateFormatter extension which allows you to allows you to create a date formatter with a specific date pattern in one line.
 
